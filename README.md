@@ -1,8 +1,8 @@
-# Sarah's Portfolio 💎
+# Tejaswi's Portfolio 💎
 
-Welcome to the repository for Sarah Abu Irmeileh's personal portfolio website. This portfolio showcases some of my skills, projects, experiences, and contact information. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
+Welcome to the repository for Sankara Surya Tejaswi's personal portfolio website. This portfolio showcases some of my skills, projects, experiences, and contact information. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
 
-Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netlify.app/)👈
+Click Here to see  👉[My Portfolio](https://sankara-surya-tejaswi-portfolio.netlify.app/)👈
 
 
 ## Table of Contents 📋
@@ -25,15 +25,14 @@ Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netli
   - Home
   - About
   - Services
-  - Portfolio
   - Contact
 
-## Usage 👩🏻‍💻
+## Usage 
 ### Navigation 💻
 - Home: Introduction and brief overview.
-- About: Detailed information about Sarah's background.
-- Services: A list of services Sarah offers, such as back-end development and computer graphics design.
-- Portfolio: Display of Sarah's projects with links to their respective repositories.
+- About: Detailed information about Tejaswi's background.
+- Services: A list of services Tejaswi offers, such as software development and computer graphics design.
+- Portfolio: Display of Tejaswi's projects with links to their respective repositories.
 - Contact: Information on how to get in touch with Sarah, including email and social media links.
 
 ### Switching Color Themes 📌
@@ -46,11 +45,11 @@ Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netli
 
 ## Contact 📨
 
-For any inquiries, you can reach Sarah Abu Irmeileh through the following channels:
+For any inquiries, you can reach Sankara Surya Tejaswi through the following channels:
 
-- Email: [sarahabuirmeileh@gmail.com](mailto:sarahabuirmeileh@gmail.com)
-- GitHub: [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh)
-- LinkedIn: [Sarah Abu Irmeileh](https://www.linkedin.com/in/sarahabuirmeileh)
-- Medium: [SarahAbuirmeileh](https://medium.com/@SarahAbuirmeileh)
+- Email: [gsstejaswi@gmail.com](mailto:gsstejaswi@gmail.com)
+- GitHub: [Sankara Surya Tejaswi](https://github.com/tejagadepalli)
+- LinkedIn: [Sankara Surya Tejaswi](https://www.linkedin.com/in/teja-/)
+- Hackerrank: [Sankara Surya Tejaswi](https://www.hackerrank.com/profile/TejaGadepalli)
 
 Feel free to fork this repository, raise issues, or submit pull requests. Thank you for visiting! 🔥
