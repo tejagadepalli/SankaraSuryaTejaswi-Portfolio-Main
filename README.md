@@ -7,8 +7,8 @@ Click Here to see  👉[My Portfolio](https://tejagadepalli.github.io/SankaraSur
 
 ## Table of Contents 📋
 - [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Usage](#usage)
+- [Features](#Features)
+- [Usage](#navigation)
 - [Contact](#contact)
 
 ## Technologies Used ⚙️
